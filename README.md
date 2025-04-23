@@ -1,4 +1,4 @@
-# An introduction to MAchine Learning with JupyterLite
+# An introduction to Machine Learning with JupyterLite
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
